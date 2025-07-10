@@ -4,8 +4,7 @@ Delhi Traders wants to reduce storage costs by reducing duplicate content and, w
               :  JPEG and MP4 are most Common Formats
 *  Marketing Lierature  : customer stories, sales flyers, sizing charts, and eco-friendly, manufacturing infommation.
                         : PDF format is the most common.
-*  Corporate Documents:  Internal documents - some sensitive
-*                      : Mostly office formats like words, excel files
+*  Corporate Documents:  Internal documents - some sensitive.Mostly office formats like words, excel files
 
  • Media files. Media files include product photos and feature videos that are displayed on the company’s public website, which is developed and maintained in house. When a customer browses to an item, the corresponding media files are displayed. The media files are in                     different formats, but JPEG and MP4 are the most common.
 
