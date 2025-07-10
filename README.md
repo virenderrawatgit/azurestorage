@@ -1,4 +1,4 @@
-# azurestorage
+# Azurestorage
 Delhi Traders wants to reduce storage costs by reducing duplicate content and, whenever applicable, migrating it to the cloud. They would like a solution that centralizes maintenance while still providing world-wide access for customers who browse media files and marketing literature. Additionally, they would like to address the storage of company data files.
 *  Media File : Product Photos and Feature Video
               :  JPEG and MP4 are most Common Formats
